@@ -5,15 +5,17 @@ body{
 /* END OF PREMADE */
 
 .main_container{
-
+    height: 100vh;
 }
 
 .sidebar{
-
+    flex-shrink: 30%;
+    background: url("../../assets/crash.jpg");
+    
 }
 
 .sidebar img{
-
+    width: 72px;
 }
 
 .scrolling_content{
